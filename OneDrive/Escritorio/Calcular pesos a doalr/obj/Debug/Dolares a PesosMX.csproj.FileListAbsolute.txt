@@ -1,0 +1,21 @@
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Dolares a PesosMX\bin\Debug\Dolares a PesosMX.exe.config
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Dolares a PesosMX\bin\Debug\Dolares a PesosMX.exe
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Dolares a PesosMX\bin\Debug\Dolares a PesosMX.pdb
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Dolares a PesosMX\obj\Debug\Dolares a PesosMX.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Dolares a PesosMX\obj\Debug\Dolares_a_PesosMX.Form1.resources
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Dolares a PesosMX\obj\Debug\Dolares_a_PesosMX.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Dolares a PesosMX\obj\Debug\Dolares a PesosMX.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Dolares a PesosMX\obj\Debug\Dolares a PesosMX.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Dolares a PesosMX\obj\Debug\Dolares a PesosMX.exe
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Dolares a PesosMX\obj\Debug\Dolares a PesosMX.pdb
+C:\Users\rodri\OneDrive\Escritorio\act 7 6 y 9\Calcular pesos a doalr\bin\Debug\Dolares a PesosMX.exe.config
+C:\Users\rodri\OneDrive\Escritorio\act 7 6 y 9\Calcular pesos a doalr\bin\Debug\Dolares a PesosMX.exe
+C:\Users\rodri\OneDrive\Escritorio\act 7 6 y 9\Calcular pesos a doalr\bin\Debug\Dolares a PesosMX.pdb
+C:\Users\rodri\OneDrive\Escritorio\act 7 6 y 9\Calcular pesos a doalr\obj\Debug\Dolares a PesosMX.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\act 7 6 y 9\Calcular pesos a doalr\obj\Debug\Dolares a PesosMX.exe.config
+C:\Users\rodri\OneDrive\Escritorio\act 7 6 y 9\Calcular pesos a doalr\obj\Debug\Dolares_a_PesosMX.Form1.resources
+C:\Users\rodri\OneDrive\Escritorio\act 7 6 y 9\Calcular pesos a doalr\obj\Debug\Dolares_a_PesosMX.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Escritorio\act 7 6 y 9\Calcular pesos a doalr\obj\Debug\Dolares a PesosMX.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Escritorio\act 7 6 y 9\Calcular pesos a doalr\obj\Debug\Dolares a PesosMX.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\act 7 6 y 9\Calcular pesos a doalr\obj\Debug\Dolares a PesosMX.exe
+C:\Users\rodri\OneDrive\Escritorio\act 7 6 y 9\Calcular pesos a doalr\obj\Debug\Dolares a PesosMX.pdb
