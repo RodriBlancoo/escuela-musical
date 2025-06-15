@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perimetro de un cuadrado", "Perimetro de un cuadrado.csproj", "{3999DF3B-04FE-4FDF-8F61-2DE654E5B0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3999DF3B-04FE-4FDF-8F61-2DE654E5B0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3999DF3B-04FE-4FDF-8F61-2DE654E5B0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3999DF3B-04FE-4FDF-8F61-2DE654E5B0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3999DF3B-04FE-4FDF-8F61-2DE654E5B0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CA0DB6C-5A01-4732-A40B-2967802E0BB2}
+	EndGlobalSection
+EndGlobal
