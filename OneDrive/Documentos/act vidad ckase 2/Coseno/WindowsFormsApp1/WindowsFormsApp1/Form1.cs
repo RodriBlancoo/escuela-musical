@@ -12,9 +12,30 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
+        double AnguloEnRadianes = 0;
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txt1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblCalcularSeno_Click(object sender, EventArgs e)
+        {
+            double SenoAngulo;
+            AnguloEnRadianes = double.Parse(txt1.Text);
+            SenoAngulo = Math.Sin(AnguloEnRadianes);
+            txt2.Text = SenoAngulo.ToString("N2");
+            txt1.Clear();
+            txt3.Text = string.Empty;
         }
     }
 }
