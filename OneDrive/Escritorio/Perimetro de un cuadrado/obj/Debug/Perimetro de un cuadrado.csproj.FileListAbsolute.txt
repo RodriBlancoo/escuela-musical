@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Perimetro de un cuadrado\bin\Debug\Perimetro de un cuadrado.exe.config
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Perimetro de un cuadrado\bin\Debug\Perimetro de un cuadrado.exe
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Perimetro de un cuadrado\bin\Debug\Perimetro de un cuadrado.pdb
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Perimetro de un cuadrado\obj\Debug\Perimetro_de_un_cuadrado.Form1.resources
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Perimetro de un cuadrado\obj\Debug\Perimetro_de_un_cuadrado.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.exe
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.pdb
