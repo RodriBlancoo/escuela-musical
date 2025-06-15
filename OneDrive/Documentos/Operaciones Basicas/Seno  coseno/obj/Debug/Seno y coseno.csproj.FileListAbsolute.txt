@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Desktop\Ejercicios\Seno y coseno\bin\Debug\Seno y coseno.exe.config
+C:\Users\Estudiante\Desktop\Ejercicios\Seno y coseno\bin\Debug\Seno y coseno.exe
+C:\Users\Estudiante\Desktop\Ejercicios\Seno y coseno\bin\Debug\Seno y coseno.pdb
+C:\Users\Estudiante\Desktop\Ejercicios\Seno y coseno\obj\Debug\Seno y coseno.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Ejercicios\Seno y coseno\obj\Debug\Seno_y_coseno.Form1.resources
+C:\Users\Estudiante\Desktop\Ejercicios\Seno y coseno\obj\Debug\Seno_y_coseno.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Ejercicios\Seno y coseno\obj\Debug\Seno y coseno.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Ejercicios\Seno y coseno\obj\Debug\Seno y coseno.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Ejercicios\Seno y coseno\obj\Debug\Seno y coseno.exe
+C:\Users\Estudiante\Desktop\Ejercicios\Seno y coseno\obj\Debug\Seno y coseno.pdb
