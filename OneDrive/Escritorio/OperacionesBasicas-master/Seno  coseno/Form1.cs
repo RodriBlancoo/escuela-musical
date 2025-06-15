@@ -64,5 +64,20 @@ namespace Seno_y_coseno
         {
 
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void lblAngulo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txt2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

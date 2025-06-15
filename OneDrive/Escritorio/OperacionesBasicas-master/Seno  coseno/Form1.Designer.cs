@@ -56,6 +56,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(490, 90);
             this.panel1.TabIndex = 0;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // lblAngulo
             // 
@@ -68,6 +69,7 @@
             this.lblAngulo.Size = new System.Drawing.Size(143, 16);
             this.lblAngulo.TabIndex = 1;
             this.lblAngulo.Text = "Angulo (en Radianes) :";
+            this.lblAngulo.Click += new System.EventHandler(this.lblAngulo_Click);
             // 
             // txt1
             // 
@@ -169,6 +171,7 @@
             this.txt2.Name = "txt2";
             this.txt2.Size = new System.Drawing.Size(191, 20);
             this.txt2.TabIndex = 2;
+            this.txt2.TextChanged += new System.EventHandler(this.txt2_TextChanged);
             // 
             // lblCosenoAngulo
             // 
