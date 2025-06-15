@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Desktop\Ejercicios\Calcular propiedades\bin\Debug\Calcular propiedades.exe.config
+C:\Users\Estudiante\Desktop\Ejercicios\Calcular propiedades\bin\Debug\Calcular propiedades.exe
+C:\Users\Estudiante\Desktop\Ejercicios\Calcular propiedades\bin\Debug\Calcular propiedades.pdb
+C:\Users\Estudiante\Desktop\Ejercicios\Calcular propiedades\obj\Debug\Calcular propiedades.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Ejercicios\Calcular propiedades\obj\Debug\Calcular_propiedades.FmrSistemadeNotas.resources
+C:\Users\Estudiante\Desktop\Ejercicios\Calcular propiedades\obj\Debug\Calcular_propiedades.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Ejercicios\Calcular propiedades\obj\Debug\Calcular propiedades.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Ejercicios\Calcular propiedades\obj\Debug\Calcular propiedades.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Ejercicios\Calcular propiedades\obj\Debug\Calcular propiedades.exe
+C:\Users\Estudiante\Desktop\Ejercicios\Calcular propiedades\obj\Debug\Calcular propiedades.pdb
