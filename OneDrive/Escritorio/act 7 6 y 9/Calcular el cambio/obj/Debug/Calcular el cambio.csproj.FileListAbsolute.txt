@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Calcular el cambio\bin\Debug\Calcular el cambio.exe.config
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Calcular el cambio\bin\Debug\Calcular el cambio.exe
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Calcular el cambio\bin\Debug\Calcular el cambio.pdb
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Calcular el cambio\obj\Debug\Calcular el cambio.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Calcular el cambio\obj\Debug\Calcular_el_cambio.Form1.resources
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Calcular el cambio\obj\Debug\Calcular_el_cambio.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Calcular el cambio\obj\Debug\Calcular el cambio.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Calcular el cambio\obj\Debug\Calcular el cambio.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Calcular el cambio\obj\Debug\Calcular el cambio.exe
+C:\Users\ADMIN\Desktop\Cesar ricaldone\2 periodo\Calcular el cambio\obj\Debug\Calcular el cambio.pdb
