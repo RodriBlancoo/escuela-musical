@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Practica ddl" id="8BC5628E-7625-7792-807C-44C70A4270F2" version="3.5">
+<createdBy>rodri</createdBy>
+<createdTime>2026-02-20 04:26:55 UTC</createdTime>
+<ownerDesignName>Practica ddl</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>8BC5628E-7625-7792-807C-44C70A4270F2</designId>
+</OSDM_Design>
