@@ -1,0 +1,7 @@
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Auto\Clase Auto\bin\Debug\Clase Auto.exe.config
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Auto\Clase Auto\bin\Debug\Clase Auto.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Auto\Clase Auto\bin\Debug\Clase Auto.pdb
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Auto\Clase Auto\obj\Debug\Clase Auto.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Auto\Clase Auto\obj\Debug\Clase Auto.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Auto\Clase Auto\obj\Debug\Clase Auto.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Auto\Clase Auto\obj\Debug\Clase Auto.pdb

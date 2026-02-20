@@ -1,0 +1,7 @@
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Círculo\Clase Círculo\bin\Debug\Clase Círculo.exe.config
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Círculo\Clase Círculo\bin\Debug\Clase Círculo.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Círculo\Clase Círculo\bin\Debug\Clase Círculo.pdb
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Círculo\Clase Círculo\obj\Debug\Clase Círculo.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Círculo\Clase Círculo\obj\Debug\Clase Círculo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Círculo\Clase Círculo\obj\Debug\Clase Círculo.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Círculo\Clase Círculo\obj\Debug\Clase Círculo.pdb

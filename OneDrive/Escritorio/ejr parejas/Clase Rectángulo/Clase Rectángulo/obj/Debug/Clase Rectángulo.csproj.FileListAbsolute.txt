@@ -1,0 +1,7 @@
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Rectángulo\Clase Rectángulo\bin\Debug\Clase Rectángulo.exe.config
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Rectángulo\Clase Rectángulo\bin\Debug\Clase Rectángulo.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Rectángulo\Clase Rectángulo\bin\Debug\Clase Rectángulo.pdb
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Rectángulo\Clase Rectángulo\obj\Debug\Clase Rectángulo.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Rectángulo\Clase Rectángulo\obj\Debug\Clase Rectángulo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Rectángulo\Clase Rectángulo\obj\Debug\Clase Rectángulo.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Rectángulo\Clase Rectángulo\obj\Debug\Clase Rectángulo.pdb

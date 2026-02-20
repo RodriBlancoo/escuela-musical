@@ -1,0 +1,7 @@
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Empleadoo\Clase Empleadoo\bin\Debug\Clase Empleadoo.exe.config
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Empleadoo\Clase Empleadoo\bin\Debug\Clase Empleadoo.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Empleadoo\Clase Empleadoo\bin\Debug\Clase Empleadoo.pdb
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Empleadoo\Clase Empleadoo\obj\Debug\Clase Empleadoo.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Empleadoo\Clase Empleadoo\obj\Debug\Clase Empleadoo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Empleadoo\Clase Empleadoo\obj\Debug\Clase Empleadoo.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Empleadoo\Clase Empleadoo\obj\Debug\Clase Empleadoo.pdb

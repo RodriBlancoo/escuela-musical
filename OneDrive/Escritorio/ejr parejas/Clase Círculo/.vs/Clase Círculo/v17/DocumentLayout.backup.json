@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\ejr parejas\\Clase C\u00EDrculo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16891469-9C5C-44B4-B18B-F59B59E33D4F}|Clase C\u00EDrculo\\Clase C\u00EDrculo.csproj|c:\\users\\rodri\\onedrive\\escritorio\\ejr parejas\\clase c\u00EDrculo\\clase c\u00EDrculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16891469-9C5C-44B4-B18B-F59B59E33D4F}|Clase C\u00EDrculo\\Clase C\u00EDrculo.csproj|solutionrelative:clase c\u00EDrculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16891469-9C5C-44B4-B18B-F59B59E33D4F}|Clase C\u00EDrculo\\Clase C\u00EDrculo.csproj|C:\\Users\\rodri\\OneDrive\\Escritorio\\ejr parejas\\Clase C\u00EDrculo\\clase c\u00EDrculo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16891469-9C5C-44B4-B18B-F59B59E33D4F}|Clase C\u00EDrculo\\Clase C\u00EDrculo.csproj|solutionrelative:clase c\u00EDrculo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\ejr parejas\\Clase C\u00EDrculo\\Clase C\u00EDrculo\\Class1.cs",
+              "RelativeDocumentMoniker": "Clase C\u00EDrculo\\Class1.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\ejr parejas\\Clase C\u00EDrculo\\Clase C\u00EDrculo\\Class1.cs",
+              "RelativeToolTip": "Clase C\u00EDrculo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:34:09.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\ejr parejas\\Clase C\u00EDrculo\\Clase C\u00EDrculo\\Program.cs",
+              "RelativeDocumentMoniker": "Clase C\u00EDrculo\\Program.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\ejr parejas\\Clase C\u00EDrculo\\Clase C\u00EDrculo\\Program.cs",
+              "RelativeToolTip": "Clase C\u00EDrculo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:33:41.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\ClassPersona\ClassPersona\obj\Debug\ClassPersona.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\ClassPersona\ClassPersona\obj\Debug\ClassPersona.csproj.CoreCompileInputs.cache

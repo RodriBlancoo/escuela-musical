@@ -1,0 +1,8 @@
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Estudiante\5. Clase Estudiante\bin\Debug\_5.Clase_Estudiante.exe.config
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Estudiante\5. Clase Estudiante\bin\Debug\_5.Clase_Estudiante.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Estudiante\5. Clase Estudiante\bin\Debug\_5.Clase_Estudiante.pdb
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Estudiante\5. Clase Estudiante\obj\Debug\5. Clase Estudiante.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Estudiante\5. Clase Estudiante\obj\Debug\5. Clase Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Estudiante\5. Clase Estudiante\obj\Debug\_5.Clase_Estudiante.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Estudiante\5. Clase Estudiante\obj\Debug\_5.Clase_Estudiante.pdb
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Estudiante\5. Clase Estudiante\obj\Debug\_5.Clase_Estudiante.exe.config

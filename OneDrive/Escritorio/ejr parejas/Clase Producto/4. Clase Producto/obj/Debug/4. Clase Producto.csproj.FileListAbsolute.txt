@@ -1,0 +1,19 @@
+C:\Users\Estudiante\Desktop\4. Clase Producto\4. Clase Producto\bin\Debug\_4.Clase_Producto.exe.config
+C:\Users\Estudiante\Desktop\4. Clase Producto\4. Clase Producto\bin\Debug\_4.Clase_Producto.exe
+C:\Users\Estudiante\Desktop\4. Clase Producto\4. Clase Producto\bin\Debug\_4.Clase_Producto.pdb
+C:\Users\Estudiante\Desktop\4. Clase Producto\4. Clase Producto\obj\Debug\4. Clase Producto.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\4. Clase Producto\4. Clase Producto\obj\Debug\4. Clase Producto.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\4. Clase Producto\4. Clase Producto\obj\Debug\_4.Clase_Producto.exe
+C:\Users\Estudiante\Desktop\4. Clase Producto\4. Clase Producto\obj\Debug\_4.Clase_Producto.pdb
+C:\Users\Estudiante\Desktop\Actividad- Corto -Clases en c#-Trabajo en parejas\4. Clase Producto\4. Clase Producto\bin\Debug\_4.Clase_Producto.exe.config
+C:\Users\Estudiante\Desktop\Actividad- Corto -Clases en c#-Trabajo en parejas\4. Clase Producto\4. Clase Producto\bin\Debug\_4.Clase_Producto.exe
+C:\Users\Estudiante\Desktop\Actividad- Corto -Clases en c#-Trabajo en parejas\4. Clase Producto\4. Clase Producto\bin\Debug\_4.Clase_Producto.pdb
+C:\Users\Estudiante\Desktop\Actividad- Corto -Clases en c#-Trabajo en parejas\4. Clase Producto\4. Clase Producto\obj\Debug\4. Clase Producto.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Actividad- Corto -Clases en c#-Trabajo en parejas\4. Clase Producto\4. Clase Producto\obj\Debug\4. Clase Producto.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Actividad- Corto -Clases en c#-Trabajo en parejas\4. Clase Producto\4. Clase Producto\obj\Debug\_4.Clase_Producto.exe
+C:\Users\Estudiante\Desktop\Actividad- Corto -Clases en c#-Trabajo en parejas\4. Clase Producto\4. Clase Producto\obj\Debug\_4.Clase_Producto.pdb
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Producto\4. Clase Producto\obj\Debug\4. Clase Producto.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Producto\4. Clase Producto\obj\Debug\_4.Clase_Producto.exe.config
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Producto\4. Clase Producto\obj\Debug\4. Clase Producto.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Producto\4. Clase Producto\obj\Debug\_4.Clase_Producto.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Producto\4. Clase Producto\obj\Debug\_4.Clase_Producto.pdb

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\ejr parejas\\Clase Empleadoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8DBF7-7AAC-4DF4-821B-E52EBAFE01CB}|Clase Empleadoo\\Clase Empleadoo.csproj|c:\\users\\rodri\\onedrive\\escritorio\\ejr parejas\\clase empleadoo\\clase empleadoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8DBF7-7AAC-4DF4-821B-E52EBAFE01CB}|Clase Empleadoo\\Clase Empleadoo.csproj|solutionrelative:clase empleadoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8DBF7-7AAC-4DF4-821B-E52EBAFE01CB}|Clase Empleadoo\\Clase Empleadoo.csproj|C:\\Users\\rodri\\OneDrive\\Escritorio\\ejr parejas\\Clase Empleadoo\\clase empleadoo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8DBF7-7AAC-4DF4-821B-E52EBAFE01CB}|Clase Empleadoo\\Clase Empleadoo.csproj|solutionrelative:clase empleadoo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\ejr parejas\\Clase Empleadoo\\Clase Empleadoo\\Class1.cs",
+              "RelativeDocumentMoniker": "Clase Empleadoo\\Class1.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\ejr parejas\\Clase Empleadoo\\Clase Empleadoo\\Class1.cs",
+              "RelativeToolTip": "Clase Empleadoo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:54:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\ejr parejas\\Clase Empleadoo\\Clase Empleadoo\\Program.cs",
+              "RelativeDocumentMoniker": "Clase Empleadoo\\Program.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\ejr parejas\\Clase Empleadoo\\Clase Empleadoo\\Program.cs",
+              "RelativeToolTip": "Clase Empleadoo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:54:43.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

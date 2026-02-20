@@ -1,0 +1,6 @@
+C:\Users\ronal\OneDrive\Desktop\PTC-AeroTechAirways\PTC-AeroTechAirways\Modelo\bin\Debug\Modelo.dll
+C:\Users\ronal\OneDrive\Desktop\PTC-AeroTechAirways\PTC-AeroTechAirways\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ronal\OneDrive\Desktop\PTC-AeroTechAirways\PTC-AeroTechAirways\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\ronal\OneDrive\Desktop\PTC-AeroTechAirways\PTC-AeroTechAirways\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Desktop\PTC-AeroTechAirways\PTC-AeroTechAirways\Modelo\obj\Debug\Modelo.dll
+C:\Users\ronal\OneDrive\Desktop\PTC-AeroTechAirways\PTC-AeroTechAirways\Modelo\obj\Debug\Modelo.pdb

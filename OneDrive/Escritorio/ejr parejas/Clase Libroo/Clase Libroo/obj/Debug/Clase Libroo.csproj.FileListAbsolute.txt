@@ -1,0 +1,7 @@
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Libroo\Clase Libroo\bin\Debug\Clase Libroo.exe.config
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Libroo\Clase Libroo\bin\Debug\Clase Libroo.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Libroo\Clase Libroo\bin\Debug\Clase Libroo.pdb
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Libroo\Clase Libroo\obj\Debug\Clase Libroo.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Libroo\Clase Libroo\obj\Debug\Clase Libroo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Libroo\Clase Libroo\obj\Debug\Clase Libroo.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Libroo\Clase Libroo\obj\Debug\Clase Libroo.pdb

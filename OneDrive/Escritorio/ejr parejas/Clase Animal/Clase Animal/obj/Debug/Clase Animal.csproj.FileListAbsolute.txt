@@ -1,0 +1,8 @@
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Animal\Clase Animal\bin\Debug\Clase Animal.exe.config
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Animal\Clase Animal\bin\Debug\Clase Animal.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Animal\Clase Animal\bin\Debug\Clase Animal.pdb
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Animal\Clase Animal\obj\Debug\Clase Animal.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Animal\Clase Animal\obj\Debug\Clase Animal.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Animal\Clase Animal\obj\Debug\Clase Animal.exe
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Animal\Clase Animal\obj\Debug\Clase Animal.pdb
+C:\Users\rodri\OneDrive\Escritorio\ejr parejas\Clase Animal\Clase Animal\obj\Debug\Clase Animal.exe.config
