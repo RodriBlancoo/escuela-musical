@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agregar Países by white</title>
+    <link rel="icon" href="img/ferco.jpg">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+<body class="bg-dark text-white">
+
+    <main class="container py-5">
+        <div class="card shadow bg-dark text-white border-secondary">
+            <div class="card-header bg-success text-white">
+                <h1 class="h4 mb-0">Listado de Países</h1>
+            </div>
+
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-striped table-hover table-dark align-middle">
+                        <thead class="table-dark">
+                            <tr>
+                                <th>Nombre</th>
+                                <th>Continente</th>
+                                <th>Capital</th>
+                                <th>Extensión</th>
+                            </tr>
+                        </thead>
+
+                        <tbody id="tablaPaises">
+                        </tbody>
+                    </table>
+
+                    <section class="mt-5">
+                        <h2 class="h4 my-4">Agregar Nuevo País</h2>
+
+                        <div class="form-group my-3">
+                            <label for="txtNombre" class="form-label">Nombre del País</label>
+                            <input type="text" id="txtNombre" class="form-control bg-secondary text-white border-dark">
+                        </div>
+
+                        <div class="form-group my-3">
+                            <label for="txtContinente" class="form-label">Continente</label>
+                            <input type="text" id="txtContinente" class="form-control bg-secondary text-white border-dark">
+                        </div>
+
+                        <div class="form-group my-3">
+                            <label for="txtCapital" class="form-label">Capital</label>
+                            <input type="text" id="txtCapital" class="form-control bg-secondary text-white border-dark">
+                        </div>
+
+                        <div class="form-group my-3">
+                            <label for="txtExtension" class="form-label">Extensión</label>
+                            <input type="text" id="txtExtension" class="form-control bg-secondary text-white border-dark">
+                        </div>
+
+                        <button class="btn btn-success mt-3" id="btnAgregar">Agregar País</button>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
